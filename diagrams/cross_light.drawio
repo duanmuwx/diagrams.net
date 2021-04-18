@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T12:15:02.739Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" version="14.6.1" etag="8S8PIfoyQrHF6UNniCLg" type="github"><diagram id="dBdTEht3Nw92F_nDJJYf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-18T12:49:37.232Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="iEnw4D1iTzSZULr0Pq04" version="14.6.1" type="github">
+  <diagram id="dBdTEht3Nw92F_nDJJYf" name="Page-1">
+    <mxGraphModel dx="652" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="646" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="60" height="386" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="60" height="386" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/transportasi-versi-outline/61/Transportasi-05-2-128.png;imageBackground=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="630" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/transportasi-versi-outline/61/Transportasi-05-2-128.png;imageBackground=#ffffff;sketch=0;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="570" y="342" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/transportasi-versi-outline/61/Transportasi-05-2-128.png;imageBackground=#ffffff;sketch=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="310" y="304" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/transportasi-versi-outline/61/Transportasi-05-2-128.png;imageBackground=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/transportasi-versi-outline/61/Transportasi-05-2-128.png;imageBackground=#ffffff;sketch=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="310" y="690" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/transportasi-versi-outline/61/Transportasi-05-2-128.png;imageBackground=#ffffff;sketch=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="510" y="304" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/transportasi-versi-outline/61/Transportasi-05-2-128.png;imageBackground=#ffffff;sketch=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="510" y="690" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/transportasi-versi-outline/61/Transportasi-05-2-128.png;imageBackground=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="622" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;sketch=0;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="350" width="215" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-29" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;sketch=0;fillColor=#FF3333;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="275" y="400" width="30" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;sketch=0;fillColor=#FF3333;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="540" y="400" width="30" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="sfkmRsF_eXDOUSq_e86J-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;sketch=0;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="320" y="646" width="215" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
